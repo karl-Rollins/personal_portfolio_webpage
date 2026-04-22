@@ -92,3 +92,22 @@ a {
   justify-content: center;
   color: #f0f0f0;
 }
+
+.contact {
+  background-color: rgb(36 35 35);
+  color: white;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact h2 {
+  font-size: 4rem;
+}
+
+.contact p {
+  display: flex;
+  justify-content: center;
+}
