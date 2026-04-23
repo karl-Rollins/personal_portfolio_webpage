@@ -2,11 +2,11 @@
 
 **Personal Portfolio Webpage:**
 
-A webpage that shows some of the  projects i've done.
+A web page that shows some of the  projects i've done.
 
 ## 📌 Problem Statement
 
-Many aspiring developers lack a practical way to apply and demonstrate their web development skills in a real-world project. Building a personal portfolio website addresses this gap by providing hands-on experience while creating a platform to showcase progress and achievements.
+Many aspiring developers lack a practical way to apply and demonstrate their web development skills in a real-world project. Building a personal portfolio site addresses this gap by providing hands-on experience while creating a platform to showcase progress and achievements.
 
 ## 🎯 Project Goals
 
