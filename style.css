@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: 'Poppins', 'Lato', sans-serif;
+}
+
 .section-header {
   background-color: rgb(36 35 35);
   color: white;
@@ -27,6 +31,10 @@
   position: fixed;
   width: 100%;
   border-bottom: 1px solid black;
+}
+
+.bar:hover {
+  color: gray;
 }
 
 a {
