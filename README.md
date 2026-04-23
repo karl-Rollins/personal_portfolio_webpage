@@ -28,6 +28,8 @@ Many aspiring developers lack a practical way to apply and demonstrate their web
 
 ## 📷 Screenshots
 
+![How it looks like](assets/images/screencapture-127-0-0-1-5501-2026-04-23-15_39_27.png)
+
 ## ⚙ Installation & Setup
 
 Clone the repository:
