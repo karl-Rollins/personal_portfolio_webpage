@@ -75,6 +75,10 @@ a {
   margin: 20px;
 }
 
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0 0 0 / 20%);
+}
+
 .card img {
   width: 100%;
   height: auto;
@@ -110,4 +114,27 @@ a {
 .contact p {
   display: flex;
   justify-content: center;
+}
+
+.contact-links {
+  color: #f0f0f0;
+  width: 30px;
+  height: 30px;
+  margin-top: 50px;
+  font-size: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+  white-space: nowrap;
+}
+
+footer {
+  color: white;
+  background-color: rgb(36 35 35);
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  border-top: 2px solid rgb(121 44 44);
+  padding-top: 50px;
 }
