@@ -129,6 +129,10 @@ a {
   white-space: nowrap;
 }
 
+.link:hover {
+  transform: translateY(5px);
+}
+
 footer {
   color: white;
   background-color: rgb(36 35 35);
